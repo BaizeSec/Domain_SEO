@@ -4,6 +4,7 @@ This project is used for site weight query. At present, it supports single query
 
 
 How to use
+
 usage: SEO.py [-h] [-r READ] [-u READ]
 
 
