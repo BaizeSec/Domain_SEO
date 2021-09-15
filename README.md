@@ -6,7 +6,11 @@ This project is used for site weight query. At present, it supports single query
 How to use
 usage: SEO.py [-h] [-r READ] [-u READ]
 
+
 optional arguments:
+
   -h, --help  show this help message and exit
+  
   -r READ     path file
+  
   -u READ     targetdomain
